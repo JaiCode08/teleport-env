@@ -1,0 +1,18 @@
+Starting Sandbox App...
+App started with PID: 413
+Taking Checkpoint...
+Executing Destructive Action (rm)...
+Rolling back...
+Successfully rolled back to snap_1
+Rollback latency: 423.96 ms
+
+--- App Log ---
+Counter Server started. PID: 413
+Count: 1
+Count: 2
+Count: 3
+Count: 4
+Count: 5
+
+---------------
+SUCCESS! Teleport-env rollback completed in 423.96 ms and verified.

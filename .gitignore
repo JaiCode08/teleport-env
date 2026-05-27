@@ -1,0 +1,12 @@
+AGENTS.md
+GEMINI.md
+GOAL.md
+deltabox_paper.pdf
+.env
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+/teleport_env/__pycache__
+/__pycache__
